@@ -1,0 +1,90 @@
+.firstIn{
+    border: 1px solid;
+    border-radius:10px ;
+    width: 20%;
+    text-align: center;
+  }
+    .firstCal{
+      display: flex;
+      gap: 5%;
+    }
+    .firstRoD{
+      display: flex;
+      gap: 5%;
+      flex-direction: row;
+    }
+  
+    .allSec{
+        margin: 1%;
+      }
+      .form-select{
+          width: 122%;
+          display: flex;
+          border: 1px solid;
+      }
+      .form-control{
+          width: 73%;
+          border: 1px solid;
+      }
+      .twoDrop{
+          display: flex;
+          flex-direction: row;
+          gap: 14%;
+      }
+      .colorDiv{
+        width: 22%;
+      }
+      .drop-color{
+         width: 80%;
+         height: 35px;
+         text-align: left;
+         border-radius: 5px;
+      }
+      .weight1{
+         display: flex;
+         flex-direction: row;
+         gap: 2%;
+         height: 30px;
+      }
+  
+      .g-weight{
+        width: 25%;
+      }
+      .colorName{
+        width: 100%;
+      }
+      .exTwo{
+        display: flex;
+        flex-direction: column;
+      }
+      .rightEx{
+        display: flex;
+        flex-direction: column;
+      }
+      .bothDiv{
+        display: flex;
+        flex-direction: row;
+        gap: 5%;
+      }
+      .rightField{
+        display: flex;
+        flex-direction: column;
+        gap: 5%;
+  
+      }
+      .twoBtn{
+        display: flex;
+        flex-direction: row;
+        gap: 2%;
+      }
+      .allGrandTotal{
+        display: flex;
+      }
+      .setWidForSecondWe{
+        width: 90%;
+      }
+      .roundSet{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+      }
